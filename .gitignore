@@ -1,0 +1,10 @@
+.python-version
+pyproject.toml
+uv.lock
+.venv
+result.pkl
+*.pt
+*.jpg
+*.png
+runs
+main.py
